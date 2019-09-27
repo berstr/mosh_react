@@ -1,0 +1,5 @@
+node_modules/
+dist/main.js
+newrelic.js
+newrelic_agent.log
+package-lock.json
